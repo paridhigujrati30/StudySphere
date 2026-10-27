@@ -137,3 +137,9 @@ Frontend runs at `http://localhost:5173`
 ## 👩‍💻 Author
 
 Built by Parina — ML student, edutech researcher.  
+
+## My Involvement
+
+This repository is a fork of the original StudySphere group project. I explored the codebase to understand its frontend, backend, and machine-learning workflow. My individual implementation contributions were limited, and the original project and author credits are preserved.
+
+
